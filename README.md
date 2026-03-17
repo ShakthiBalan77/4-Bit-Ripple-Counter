@@ -34,7 +34,7 @@ Program for 4 Bit Ripple Counter and verify its truth table in quartus using Ver
  RegisterNumber:212225230259
 ```
 ```
-module DE(
+module bitripple(
    input  wire clk,      
    input  wire reset_n,  
    output reg  [3:0] q   
