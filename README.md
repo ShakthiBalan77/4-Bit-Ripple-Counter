@@ -81,7 +81,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1917" height="758" alt="Screenshot 2026-03-12 113940" src="https://github.com/user-attachments/assets/550a0635-2e55-4c43-a326-8207a6b52b8a" />
+![WhatsApp Image 2026-03-17 at 3 38 24 PM (1)](https://github.com/user-attachments/assets/a1400424-a1e9-408f-b689-9b3135fa6190)
+
 
 
 **RESULTS**
